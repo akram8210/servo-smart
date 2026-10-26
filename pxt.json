@@ -1,0 +1,13 @@
+{
+    "name": "servo-smart",
+    "version": "0.2.2",
+    "description": "Easy 180° and 360° servo control for BBC micro:bit MakeCode",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "servo-smart.ts"
+    ],
+    "public": true,
+    "preferredEditor": "blocks"
+}
